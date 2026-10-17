@@ -1,7 +1,19 @@
-Practica 3/Practica 1/__pycache__/
-Practica 3/ejercicio1_optimizado.ipynb
-Practica 3/qlearning_utils.py
-Practica 3/Practica 1/aichess copy.py
-Practica 3/Practica 1/test_logic.py
-Practica 3/ejercicio1 copy.ipynb
-Practica 3/Practica 1/optimization.py
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+
+# Copias y pruebas locales que no forman parte de la entrega
+*copy.py
+*copy.ipynb
+*_optimizado.ipynb
+**/test_logic.py
+**/optimization.py
+**/qlearning_utils.py
