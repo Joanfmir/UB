@@ -1,19 +1,19 @@
-# UB — Pràctiques de la Universitat de Barcelona
+# UB: University of Barcelona coursework
 
-Recull de pràctiques i projectes del Grau, organitzats per assignatura.
+Assignments and projects from my Computer Engineering degree at the Universitat de Barcelona, organised by course.
 
-| Assignatura | Projectes |
+| Course | Projects |
 |---|---|
-| [IA](IA/) — Intel·ligència Artificial | [Pràctica 2: jocs adversaris (minimax, alfa-beta)](IA/practica2-jocs-adversaris/) · [Pràctica 3: reinforcement learning (Q-learning)](IA/practica3-reinforcement-learning/) |
-| [TNUI](TNUI/) | [Pràctica 1: padró de Barcelona 1997–2026](TNUI/practica1-padro-barcelona/) |
-| [VA](VA/) — Visió Artificial | [Pràctica 1: processament bàsic d'imatges](VA/practica1-processament-imatges/) · [Pràctica 2: filtres lineals](VA/practica2-filtres-lineals/) |
+| [IA](IA/): Artificial Intelligence | [Assignment 2: adversarial search (minimax, alpha-beta)](IA/practica2-jocs-adversaris/) · [Assignment 3: reinforcement learning (Q-learning)](IA/practica3-reinforcement-learning/) |
+| [TNUI](TNUI/) | [Assignment 1: Barcelona population register 1997–2026](TNUI/practica1-padro-barcelona/) |
+| [VA](VA/): Computer Vision | [Assignment 1: basic image processing](VA/practica1-processament-imatges/) · [Assignment 2: linear filters](VA/practica2-filtres-lineals/) |
 
-## Estructura
+## Structure
 
 ```
 UB/
-└── <ASSIGNATURA>/            # sigles de l'assignatura (IA, TNUI, VA, ED, PIS...)
-    └── <nom-del-projecte>/   # una carpeta per pràctica/projecte
+└── <COURSE>/                # course acronym (IA, TNUI, VA, ED, PIS...)
+    └── <project-name>/      # one folder per assignment/project
 ```
 
-Per afegir projectes nous, mira [CONTRIBUTING.md](CONTRIBUTING.md).
+To add new projects, see [CONTRIBUTING.md](CONTRIBUTING.md).
